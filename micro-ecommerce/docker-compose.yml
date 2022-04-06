@@ -16,6 +16,21 @@ services:
     networks:
       - default
   
+  frontend:
+    build: 
+      context: ../frontend
+      dockerfile: Dockerfile
+    command: npm start
+    container_name: frontend  
+    ports: 
+      - "3000:3000"
+    stdin_open: true
+    depends_on: 
+      - app
+    networks:
+      - default    
+
+
   worker:
     build: .
     container_name: micro-ecommerce-worker
