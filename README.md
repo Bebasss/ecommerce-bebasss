@@ -61,6 +61,9 @@
 ## :computer: Web Application Getting Started
 * [GETTING_STARTED](frontend/README.md) Follow the instructions on how to run the application frontend.
 
+## :computer: Jenkins Getting Stated
+* [GETTING_STARTED](https://www.jenkins.io/) Follow the instructions on how to run the jenkins automation.
+
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more information.
 
