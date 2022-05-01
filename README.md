@@ -64,6 +64,7 @@
 ## :computer: Jenkins Getting Stated
 * [GETTING_STARTED](https://www.jenkins.io/) Follow the instructions on how to run the jenkins automation.
 * [jenkins server](http://104.198.142.24/) http://104.198.142.24/
+* Test Jenkins Build by commit code at master branch
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more information.
